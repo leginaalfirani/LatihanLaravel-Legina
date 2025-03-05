@@ -1,0 +1,2 @@
+# LatihanLaravel-Legina
+Mempelajari Laravel
